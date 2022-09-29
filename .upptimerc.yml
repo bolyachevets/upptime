@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca
 
 status-website:
   baseUrl: /upptime
