@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 586,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca",
     "icon": "https://favicons.githubusercontent.com/hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca",
     "slug": "test-broken-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "83.75%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.96%",
-    "time": 322,
-    "timeDay": 322,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "uptimeDay": "82.04%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.95%",
+    "time": 315,
+    "timeDay": 315,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-09-29": 234
+      "2022-09-29": 259
     }
   }
 ]
