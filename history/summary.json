@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "82.04%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.95%",
+    "uptimeDay": "71.07%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.92%",
     "time": 317,
     "timeDay": 317,
     "timeWeek": 317,
     "timeMonth": 317,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-09-29": 259
+      "2022-09-30": 152,
+      "2022-09-29": 265
     }
   }
 ]
