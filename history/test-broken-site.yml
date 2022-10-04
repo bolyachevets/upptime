@@ -1,7 +1,7 @@
 url: https://hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca
-status: down
-code: 503
-responseTime: 162
-lastUpdated: 2022-10-03T23:19:06.637Z
+status: up
+code: 200
+responseTime: 166
+lastUpdated: 2022-10-04T15:34:37.354Z
 startTime: Tue Apr 20 2021 09:46:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
