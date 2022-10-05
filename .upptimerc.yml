@@ -9,8 +9,8 @@ sites:
     repo: geomark
   - name: Test Broken Site
     url: https://hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca
-    owner: bcgov-dss
-    repo: geomark
+    owner: bolyachevets
+    repo: PHP-Plugin-WordPress-Custom-Form
 
 status-website:
   baseUrl: /upptime
