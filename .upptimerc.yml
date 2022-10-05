@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Geomark
     url: https://apps.gov.bc.ca/pub/geomark/overview
+    owner: bcgov-dss
+    repo: geomark
   - name: Test Broken Site
     url: https://hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca
+    owner: bcgov-dss
+    repo: geomark
 
 status-website:
   baseUrl: /upptime
