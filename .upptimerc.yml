@@ -7,10 +7,12 @@ sites:
     url: https://apps.gov.bc.ca/pub/geomark/overview
     owner: bcgov-dss
     repo: geomark
+    labels: []
   - name: Test Broken Site
     url: https://hello-world-nginx-fe64f4-dev.apps.silver.devops.gov.bc.ca
     owner: bolyachevets
     repo: PHP-Plugin-WordPress-Custom-Form
+    labels: ['OPS', 'High Priority']
 
 status-website:
   baseUrl: /upptime
