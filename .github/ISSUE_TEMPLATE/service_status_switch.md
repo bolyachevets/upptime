@@ -1,8 +1,8 @@
 ---
 name: Manual Status Switch
 about: 'opening this issue triggers service down'
-title: 'Internal Service Down'
-labels: 'status-switch'
+title: '🛑 Internal Service Down'
+labels: ['status-switch', 'status']
 assignees: 'bolyachevets'
 
 ---
