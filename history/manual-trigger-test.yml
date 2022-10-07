@@ -1,7 +1,7 @@
 url: none
-status: up
-code: 200
+status: down
+code: 418
 responseTime: 0
-lastUpdated: 2022-10-07T06:22:17.990Z
+lastUpdated: 2022-10-07T17:16:54.903Z
 startTime: Fri Oct 07 2022 06:12:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
