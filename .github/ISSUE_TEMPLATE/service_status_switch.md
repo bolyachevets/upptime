@@ -1,8 +1,10 @@
 ---
 name: Manual Status Switch
-about: Manually trigger service down by opening a Manual Status Switch issue with a corresponding service label. When the service is restored simply close the issue.
-title: ''
+about: 'opening this issue triggers service down'
+title: 'Internal Service Down'
 labels: 'status-switch'
 assignees: 'bolyachevets'
 
 ---
+
+Pick a service label corresponding to the degraded service. When the service is restored simply close the issue.
