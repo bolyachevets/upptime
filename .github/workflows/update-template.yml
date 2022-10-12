@@ -25,7 +25,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Update template
-        uses: bcgov/uptime-monitor@main
+        uses: bcgov/uptime-monitor@master
         with:
           command: "update-template"
         env:
