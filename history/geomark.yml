@@ -1,7 +1,7 @@
 url: https://apps.gov.bc.ca/pub/geomark/overview
-status: up
-code: 200
-responseTime: 450
-lastUpdated: 2023-05-21T23:17:26.675Z
+status: down
+code: 502
+responseTime: 200
+lastUpdated: 2023-05-22T09:19:28.734Z
 startTime: Thu Sep 29 2022 22:52:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
